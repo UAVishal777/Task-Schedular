@@ -7,7 +7,7 @@ import { createStackNavigator } from '@react-navigation/stack';
 
 import SplashScreen from '../screens/SplashScreen';
 import LoginScreen from '../screens/LoginScreen';
-import DashboardScreen from '../screens/DashboardScreen';
+import DashboardScreen from '../screens/Dashboard/DashboardScreen';
 
 export type RootStackParamList = {
   Splash: undefined;
